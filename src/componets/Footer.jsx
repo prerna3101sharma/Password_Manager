@@ -9,7 +9,7 @@ const Footer = () => {
             <span className='text-purple-800'>&gt;</span>
         </div>
         <div>
-        Created in FulFillement For Technical Degree
+        Created in FulFillement For Technical Degree test
         </div>
     </div>
   )
